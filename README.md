@@ -25,5 +25,6 @@ Open the `Network_Packet_Analysis_Project.docx` document for detailed instructio
 Analysis
 The project covers the following types of network analysis:
 DNS Packet Analysis: Understanding DNS queries and responses.
+[https://raw.githubusercontent.com/Prasanna0609/Wireshark-User-Guide/f6c87ec0100086cd6786e5626071c550276993f8/Screenshot%202024-07-28%20122129.png}
 TCP Packet Analysis: Inspecting TCP connections and data transfer.
 HTTP Packet Analysis: Examining HTTP requests and responses.
