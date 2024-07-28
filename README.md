@@ -2,7 +2,7 @@ Introduction
 This repository contains the project documentation and analysis results for my project on network packet analysis using Wireshark. The project focuses on capturing and analyzing DNS, TCP, and HTTP packets to understand network communication, identify potential security threats, and monitor network performance.
 
 Contents
-Network_Packet_Analysis_Project.docx**: Detailed documentation of the project, including methodology, analysis, and results.
+Network_Packet_Analysis_Project.docx: Detailed documentation of the project, including methodology, analysis, and results.
 
 Getting Started
 To get started with this project, you will need to have Wireshark installed on your system. You can download it from the [Wireshark website](https://www.wireshark.org/download.html).
